@@ -1,0 +1,23 @@
+{
+    "image1": {
+        "data": "hwQKAAoAAAD///b/ZgAAAP//9m9mAAAA/////28AAAAR8f///wAAAPHx//9vAAAAEfH//28AAAD//////wAAAP//Zm9mAAAA///2/2YAAAD///b/ZgAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "off brand seek"
+    },
+    "image2": {
+        "data": "hwQQABAAAADu7u7u7u7u7g4AAAAAAADgDgAAAAAAAOAOAAAAAAAA4A4AAAAAAADgDgAAAAAAAOAOAAAAAAAA4A4AAAAAAADgDgAAAAAAAOAOAAAAAAAA4A4AAAAAAADgDgAAAAAAAOAOAAAAAAAA4A4AAAAAAADgDgAAAAAAAODu7u7u7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mySelector"
+    },
+    "song1": {
+        "data": "0078000408020100001c00010a006400f4016400000400000000000000000000000000050000041f0000000400012408000c0001251400180002202418001c000125240028000127",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
