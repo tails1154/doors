@@ -160,7 +160,7 @@ door = 1
 game.splash("Off brand Doors", "By: @tails2012tim")
 music.play(music.randomizeSound(music.createSoundEffect(WaveShape.Sine, 2407, 0, 255, 0, 500, SoundExpressionEffect.None, InterpolationCurve.Linear)), music.PlaybackMode.UntilDone)
 mySprite = Render.getRenderSpriteVariable()
-Render.setViewMode(ViewMode.tilemapView)
+Render.setViewMode(ViewMode.raycastingView)
 scene.setBackgroundColor(14)
 tiles.setCurrentTilemap(tilemap`door1`)
 tiles.placeOnRandomTile(mySprite, sprites.dungeon.collectibleRedCrystal)
